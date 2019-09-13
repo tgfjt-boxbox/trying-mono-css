@@ -1,0 +1,9 @@
+// CSS
+// @import "@tgfjt/bar/bar";
+// @import "@tgfjt/foo/foo";
+@import "@tgfjt/bar/lib/bar";
+@import "@tgfjt/foo/lib/foo";
+
+main {
+  background-color: #f0f0f0;
+}

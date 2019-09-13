@@ -1,12 +1,11 @@
 {
-  "name": "@tgfjt/foo",
+  "name": "@tgfjt/monocss",
   "version": "0.0.0",
-  "description": "foo",
+  "description": "css",
   "author": "tgfjt <tgfjt.mail@gmail.com>",
   "homepage": "https://github.com/tgfjt-boxbox/trying-mono-css#readme",
   "license": "ISC",
-  "main": "foo.css",
-  "style": "foo.css",
+  "main": "monocss.css",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,13 +21,16 @@
     "url": "git+https://github.com/tgfjt-boxbox/trying-mono-css.git"
   },
   "scripts": {
-    "build": "sass lib/foo.scss --no-source-map foo.css",
+    "format": "prettier --write './lib/**/*.scss'",
+    "build": "sass lib/monocss.scss --no-source-map -I node_modules monocss.css",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/tgfjt-boxbox/trying-mono-css/issues"
   },
   "dependencies": {
+    "@tgfjt/bar": "^0.0.0",
+    "@tgfjt/foo": "^0.0.0",
     "sass": "^1.22.12"
   },
   "devDependencies": {

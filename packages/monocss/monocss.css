@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.c-button {
+  display: inline-flex;
+}
+
+main {
+  background-color: #f0f0f0;
+}

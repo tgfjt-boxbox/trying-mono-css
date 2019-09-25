@@ -1,6 +1,6 @@
 {
   "name": "@tgfjt/bar",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "bar",
   "author": "tgfjt <tgfjt.mail@gmail.com>",
   "homepage": "https://github.com/tgfjt-boxbox/trying-mono-css#readme",
@@ -41,5 +41,5 @@
       "pre-commit": "pretty-quick --staged"
     }
   },
-  "gitHead": "c7970dc340624275ca53a15af2e32cd1f77852e8"
+  "gitHead": "9ff56ace0af935727299cd6e5e385d4b045d18f2"
 }

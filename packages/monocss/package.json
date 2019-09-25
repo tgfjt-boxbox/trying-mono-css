@@ -1,6 +1,6 @@
 {
   "name": "@tgfjt/monocss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "css",
   "author": "tgfjt <tgfjt.mail@gmail.com>",
   "homepage": "https://github.com/tgfjt-boxbox/trying-mono-css#readme",
@@ -29,8 +29,8 @@
     "url": "https://github.com/tgfjt-boxbox/trying-mono-css/issues"
   },
   "dependencies": {
-    "@tgfjt/bar": "^0.0.1",
-    "@tgfjt/foo": "^0.0.1",
+    "@tgfjt/bar": "^0.0.2",
+    "@tgfjt/foo": "^0.0.2",
     "sass": "^1.22.12"
   },
   "devDependencies": {

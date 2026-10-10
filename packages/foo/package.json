@@ -29,7 +29,7 @@
     "url": "https://github.com/tgfjt-boxbox/trying-mono-css/issues"
   },
   "dependencies": {
-    "sass": "^1.22.12"
+    "sass": "^1.105.1"
   },
   "devDependencies": {
     "husky": "^3.0.5",
